@@ -1,0 +1,6 @@
+{
+  "name": "Banking Fraud Detection System",
+  "description": "Real-time banking fraud prevention and risk monitoring platform with bright cinematic blue 3D UI, dual bank staff and customer authentication with banking password rules, payment history ledger with downloadable e-receipts and dispute claims, 24x7 bank toll-free directory, and Apex Premier & international SWIFT security controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
